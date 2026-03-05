@@ -1,5 +1,7 @@
 # US-universities-sql-data-analysis
 Exploratory Data Analysis (EDA) of Top U.S. Universities dataset using SQL.
+
+
 Project Overview
 
 This project performs an exploratory data analysis of the Top 50 U.S. Universities dataset using SQL queries.
